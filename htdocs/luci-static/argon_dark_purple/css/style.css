@@ -1146,7 +1146,7 @@ fieldset>table>tbody>tr:nth-of-type(2n) {
 #memtotal>div>div,
 #cpu_free>div>div {
 	height: 100% !important;
-	background-color: #825ee4 !important;
+	background-color: #3ccc3c !important;
 }
 
 
